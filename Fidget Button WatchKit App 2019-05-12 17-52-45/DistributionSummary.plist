@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Fidget Button WatchKit App.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>9EB6A9E6CCF81095BDD1F9DDD76AA1F961F5A74A</string>
+				<key>dateExpires</key>
+				<string>19/01/2020</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64_32</string>
+						<string>armv7k</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>9EB6A9E6CCF81095BDD1F9DDD76AA1F961F5A74A</string>
+						<key>dateExpires</key>
+						<string>19/01/2020</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>embeddedBinaries</key>
+					<array>
+						<dict>
+							<key>architectures</key>
+							<array>
+								<string>armv7k</string>
+								<string>arm64_32</string>
+							</array>
+							<key>certificate</key>
+							<dict>
+								<key>SHA1</key>
+								<string>9EB6A9E6CCF81095BDD1F9DDD76AA1F961F5A74A</string>
+								<key>dateExpires</key>
+								<string>19/01/2020</string>
+								<key>type</key>
+								<string>iOS Development</string>
+							</dict>
+							<key>entitlements</key>
+							<dict>
+								<key>application-identifier</key>
+								<string>BR4RWWLMM9.com.brunobernardino.Fidget-Button.watchkitapp.watchkitextension</string>
+								<key>com.apple.developer.team-identifier</key>
+								<string>BR4RWWLMM9</string>
+								<key>get-task-allow</key>
+								<true/>
+								<key>keychain-access-groups</key>
+								<array>
+									<string>BR4RWWLMM9.com.brunobernardino.Fidget-Button.watchkitapp.watchkitextension</string>
+								</array>
+							</dict>
+							<key>name</key>
+							<string>Fidget Button WatchKit Extension.appex</string>
+							<key>profile</key>
+							<dict>
+								<key>UUID</key>
+								<string>11ac4602-0228-44ff-9fcf-fe8db1e71881</string>
+								<key>name</key>
+								<string>iOS Team Provisioning Profile: *</string>
+							</dict>
+							<key>team</key>
+							<dict>
+								<key>id</key>
+								<string>BR4RWWLMM9</string>
+								<key>name</key>
+								<string>Bruno Bernardino</string>
+							</dict>
+						</dict>
+					</array>
+					<key>entitlements</key>
+					<dict>
+						<key>application-identifier</key>
+						<string>BR4RWWLMM9.com.brunobernardino.Fidget-Button.watchkitapp</string>
+						<key>com.apple.developer.team-identifier</key>
+						<string>BR4RWWLMM9</string>
+						<key>get-task-allow</key>
+						<true/>
+						<key>keychain-access-groups</key>
+						<array>
+							<string>BR4RWWLMM9.com.brunobernardino.Fidget-Button.watchkitapp</string>
+						</array>
+					</dict>
+					<key>name</key>
+					<string>Fidget Button WatchKit App.app</string>
+					<key>profile</key>
+					<dict>
+						<key>UUID</key>
+						<string>11ac4602-0228-44ff-9fcf-fe8db1e71881</string>
+						<key>name</key>
+						<string>iOS Team Provisioning Profile: *</string>
+					</dict>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>BR4RWWLMM9</string>
+						<key>name</key>
+						<string>Bruno Bernardino</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>BR4RWWLMM9.com.brunobernardino.Fidget-Button</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>BR4RWWLMM9</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>BR4RWWLMM9.com.brunobernardino.Fidget-Button</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Fidget Button.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>11ac4602-0228-44ff-9fcf-fe8db1e71881</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>BR4RWWLMM9</string>
+				<key>name</key>
+				<string>Bruno Bernardino</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

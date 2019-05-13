@@ -1,0 +1,57 @@
+
+App Thinning Size Report for All Variants of Fidget Button WatchKit App
+
+Variant: Fidget Button WatchKit App-11BCCFD6-C165-469C-93F4-8EFFC97A1863.ipa
+Supported variant descriptors: [device: iPhone11,6, os-version: 12.2], [device: iPhone11,4, os-version: 12.2], [device: iPhone10,3, os-version: 12.2], [device: iPhone10,5, os-version: 12.2], [device: iPhone10,6, os-version: 12.2], [device: iPhone10,2, os-version: 12.2], [device: iPhone11,2, os-version: 12.2], [device: iPhone9,2, os-version: 12.2], and [device: iPhone9,4, os-version: 12.2]
+App + On Demand Resources size: 184 KB compressed, 677 KB uncompressed
+App size: 184 KB compressed, 677 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fidget Button WatchKit App-1A09A455-D868-433E-AF29-434DEA2A4871.ipa
+Supported variant descriptors: [device: iPad4,9, os-version: 12.2], [device: iPad5,1, os-version: 12.2], [device: iPad7,6, os-version: 12.2], [device: iPad6,12, os-version: 12.2], [device: iPad4,3, os-version: 12.2], [device: iPad6,8, os-version: 12.2], [device: iPad4,2, os-version: 12.2], [device: iPad4,1, os-version: 12.2], [device: iPad4,7, os-version: 12.2], [device: iPad6,7, os-version: 12.2], [device: iPad6,11, os-version: 12.2], [device: iPad4,4, os-version: 12.2], [device: iPad7,5, os-version: 12.2], [device: iPad4,5, os-version: 12.2], [device: iPad4,6, os-version: 12.2], [device: iPad4,8, os-version: 12.2], [device: iPad5,2, os-version: 12.2], [device: iPad5,3, os-version: 12.2], and [device: iPad5,4, os-version: 12.2]
+App + On Demand Resources size: 163 KB compressed, 433 KB uncompressed
+App size: 163 KB compressed, 433 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fidget Button WatchKit App-A7218F53-D128-49D6-9829-207FFE33E840.ipa
+Supported variant descriptors: [device: iPhone8,4, os-version: 12.2], [device: iPhone6,1, os-version: 12.2], [device: iPhone8,1, os-version: 12.2], [device: iPhone6,2, os-version: 12.2], [device: iPhone7,2, os-version: 12.2], and [device: iPod7,1, os-version: 12.2]
+App + On Demand Resources size: 179 KB compressed, 672 KB uncompressed
+App size: 179 KB compressed, 672 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fidget Button WatchKit App-AD33FEA1-36C7-4118-9ADC-92AF1B986E54.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 12.2] and [device: iPhone7,1, os-version: 12.2]
+App + On Demand Resources size: 184 KB compressed, 677 KB uncompressed
+App size: 184 KB compressed, 677 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fidget Button WatchKit App-C8899414-B385-41BA-AC20-D324C9D22240.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.2]
+App + On Demand Resources size: 184 KB compressed, 677 KB uncompressed
+App size: 184 KB compressed, 677 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fidget Button WatchKit App-D47F0F78-8133-4170-9C89-0BC7A2155537.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 12.2], [device: iPhone9,3, os-version: 12.2], [device: iPhone10,4, os-version: 12.2], and [device: iPhone10,1, os-version: 12.2]
+App + On Demand Resources size: 179 KB compressed, 672 KB uncompressed
+App size: 179 KB compressed, 672 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fidget Button WatchKit App-F9F0AF05-F499-4952-A1DF-6850EDE110E6.ipa
+Supported variant descriptors: [device: iPad7,1, os-version: 12.2], [device: iPad11,1, os-version: 12.2], [device: iPad6,3, os-version: 12.2], [device: iPad8,6, os-version: 12.2], [device: iPad6,4, os-version: 12.2], [device: iPad7,3, os-version: 12.2], [device: iPad8,3, os-version: 12.2], [device: iPad8,2, os-version: 12.2], [device: iPad8,7, os-version: 12.2], [device: iPad8,1, os-version: 12.2], [device: iPad11,2, os-version: 12.2], [device: iPad7,4, os-version: 12.2], [device: iPad8,8, os-version: 12.2], [device: iPad11,4, os-version: 12.2], [device: iPad8,4, os-version: 12.2], [device: iPad7,2, os-version: 12.2], [device: iPad8,5, os-version: 12.2], and [device: iPad11,3, os-version: 12.2]
+App + On Demand Resources size: 163 KB compressed, 433 KB uncompressed
+App size: 163 KB compressed, 433 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fidget Button WatchKit App.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 245 KB compressed, 747 KB uncompressed
+App size: 245 KB compressed, 747 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
